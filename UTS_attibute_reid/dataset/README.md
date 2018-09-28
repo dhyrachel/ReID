@@ -1,1 +1,10 @@
-#
+#dir
+dataset/
+   bounding_box_test/
+   bounding_box_train/
+   query/
+   Market-1501_Attribute/
+   bounding_box_train_256/
+   gt_bbox/
+   gt_query/
+   readme.txt
