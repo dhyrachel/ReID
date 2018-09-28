@@ -105,7 +105,7 @@ for epoch=start+1:opts.numEpochs
     end
     lastStats = state.stats ;
   else
-	%spmd(single program/multiple data)¡Œ
+	%spmd(single program/multiple data)Â¡Å’
     spmd
       [net, state] = processEpoch(net, state, params, 'train',opts) ;
       [net, state] = processEpoch(net, state, params, 'val',opts) ;
