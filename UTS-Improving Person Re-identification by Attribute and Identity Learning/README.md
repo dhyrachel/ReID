@@ -1,4 +1,5 @@
 论文：《Improving Person Re-identification by Attribute and Identity Learning》
+
 算法原理：
  
 构建APR网络实现属性+ID的reid行人重识别：
